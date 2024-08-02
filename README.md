@@ -1,4 +1,4 @@
-# Time Series Forecasting for Machine Learning Project
+# Machine learning and Deep learning model for prediction: Red River water level.
 
 Welcome to the Machine Learning Project repository! This project explores various deep learning techniques and their applications in time series forecasting, specifically for predicting river and lake levels.
 
